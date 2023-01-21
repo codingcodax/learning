@@ -1,0 +1,3 @@
+[submodule "nextjs/rebuilding-linear.app"]
+	path = nextjs/rebuilding-linear.app
+	url = git@github.com:codingcodax/rebuilding-linear.app.git
