@@ -1,3 +1,6 @@
 [submodule "nextjs/rebuilding-linear.app"]
 	path = nextjs/rebuilding-linear.app
 	url = git@github.com:codingcodax/rebuilding-linear.app.git
+[submodule "nextjs/otp-react-hook-form"]
+	path = nextjs/otp-react-hook-form
+	url = https://github.com/codingcodax/otp-react-hook-form
