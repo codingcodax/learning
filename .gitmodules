@@ -4,3 +4,6 @@
 [submodule "nextjs/otp-react-hook-form"]
 	path = nextjs/otp-react-hook-form
 	url = https://github.com/codingcodax/otp-react-hook-form
+[submodule "astro/learning"]
+	path = astro/learning
+	url = https://github.com/codingcodax/spotify-clone-astro
