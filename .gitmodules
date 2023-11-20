@@ -7,3 +7,9 @@
 [submodule "astro/learning"]
 	path = astro/learning
 	url = https://github.com/codingcodax/spotify-clone-astro
+[submodule "nodejs/xkcd-scraper"]
+	path = nodejs/xkcd-scraper
+	url = https://github.com/codingcodax/xkcd-scraper
+[submodule "nextjs/xkcd"]
+	path = nextjs/xkcd
+	url = https://github.com/codingcodax/xkcd
